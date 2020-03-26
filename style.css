@@ -45,3 +45,6 @@ footer{
 	padding-left: 0.95%;
 }
 
+h1 {
+	border-bottom: 1px solid black;
+}
